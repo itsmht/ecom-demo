@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.2ae7ebde.css",
-    "main.js": "./static/js/main.f487ae9c.js",
-    "static/js/787.2c39d3f1.chunk.js": "./static/js/787.2c39d3f1.chunk.js",
-    "static/media/download.png": "./static/media/download.c474a3fabc046c87ef1b.png",
-    "static/media/quirky1.png": "./static/media/quirky1.f1a09a7c9dbb372d6fd8.png",
-    "static/media/banner4.jpg": "./static/media/banner4.ef7c904980d26943c772.jpg",
-    "static/media/banner3.jpg": "./static/media/banner3.76d48f9add15add0033b.jpg",
-    "static/media/banner1.jpg": "./static/media/banner1.1a3063b0eab4510b06b4.jpg",
-    "static/media/QUIRKY 3.png": "./static/media/QUIRKY 3.a559bdbaa7be9bf0ed6d.png",
-    "static/media/Logo1.png": "./static/media/Logo1.68326e97ddce1788807e.png",
-    "static/media/Quirkypoint.svg": "./static/media/Quirkypoint.94403a7abc8233bade3be53fce1604d2.svg",
-    "static/media/banner2.jpg": "./static/media/banner2.6504ceb7f115ea7b35c7.jpg",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "./index.html",
-    "main.2ae7ebde.css.map": "./static/css/main.2ae7ebde.css.map",
-    "main.f487ae9c.js.map": "./static/js/main.f487ae9c.js.map",
-    "787.2c39d3f1.chunk.js.map": "./static/js/787.2c39d3f1.chunk.js.map"
+    "main.css": "/static/css/main.aab7ef13.css",
+    "main.js": "/static/js/main.dd4e5aac.js",
+    "static/js/787.e6fc4c4b.chunk.js": "/static/js/787.e6fc4c4b.chunk.js",
+    "static/media/download.png": "/static/media/download.c474a3fabc046c87ef1b.png",
+    "static/media/quirky1.png": "/static/media/quirky1.f1a09a7c9dbb372d6fd8.png",
+    "static/media/banner4.jpg": "/static/media/banner4.ef7c904980d26943c772.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.76d48f9add15add0033b.jpg",
+    "static/media/banner1.jpg": "/static/media/banner1.1a3063b0eab4510b06b4.jpg",
+    "static/media/QUIRKY 3.png": "/static/media/QUIRKY 3.a559bdbaa7be9bf0ed6d.png",
+    "static/media/Logo1.png": "/static/media/Logo1.68326e97ddce1788807e.png",
+    "static/media/Quirkypoint.svg": "/static/media/Quirkypoint.94403a7abc8233bade3be53fce1604d2.svg",
+    "static/media/banner2.jpg": "/static/media/banner2.6504ceb7f115ea7b35c7.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.aab7ef13.css.map": "/static/css/main.aab7ef13.css.map",
+    "main.dd4e5aac.js.map": "/static/js/main.dd4e5aac.js.map",
+    "787.e6fc4c4b.chunk.js.map": "/static/js/787.e6fc4c4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ae7ebde.css",
-    "static/js/main.f487ae9c.js"
+    "static/css/main.aab7ef13.css",
+    "static/js/main.dd4e5aac.js"
   ]
 }
